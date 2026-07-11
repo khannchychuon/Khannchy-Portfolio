@@ -41,18 +41,17 @@ I enjoy finding software defects before customers do and helping development tea
 
 # 💼 Experience
 
-## Quality Assurance
+## 💼 Quality Assurance Engineer
 ### Asia-Pacific Development Bank Plc.
-**Mar 2025 - Present**
+**Mar 2025 – Present**
 
-Responsibilities
+As a Quality Assurance Engineer, I help ensure the quality, stability, and reliability of the bank's mobile and internet banking applications before they are released to customers.
 
-- Execute Functional Testing
-- Perform Regression Testing
-- Execute UAT
-- Verify defect fixes
-- Validate deployments
-- Support Green Test activities
+**Key Responsibilities**
+-  Execute functional, regression, and User Acceptance Testing (UAT) for new features and system enhancements.
+-  Identify, document, and verify software defects while working closely with developers to ensure timely resolution.
+-  Validate deployments and confirm new releases meet business and quality requirements.
+-  Support Green Test activities in the Pre-Production environment before production releases.
 
 ---
 
