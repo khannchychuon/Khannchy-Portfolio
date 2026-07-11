@@ -98,11 +98,13 @@ Worked as a Frontend Developer Intern in an Agile development team.
 
 | Tool | Purpose |
 |-------|----------|
-| Jira | Bug Tracking |
-| Postman | API Testing |
-| Git | Version Control |
-| GitHub | Source Code |
-| VS Code | Coding |
+| Jira | Test management, bug tracking, and issue reporting |
+| Postman | API testing and response validation |
+| Git | Version control |
+| GitHub | Source code management and project collaboration |
+| Visual Studio Code | Code editing and project development |
+| XAMPP | Local development environment (Apache, PHP, MySQL) |
+| MySQL | Database testing and SQL queries |
 
 # 💻 Technical Skills
 
