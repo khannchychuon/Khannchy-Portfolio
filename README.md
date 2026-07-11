@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Chuon Khannchy</h1>
 
 <h3 align="center">
-Quality Assurance Engineer | Manual Testing | API Testing | Banking Software QA
+Quality Assurance Engineer | Manual Testing | API Testing 
 </h3>
 
 <p align="center">
@@ -22,7 +22,7 @@ Passionate about delivering reliable, secure and high-quality software through e
 </a>
 
 </p>
-# 👋 About Me
+👋 About Me
 
 Hello! I'm **Chuon Khannchy**, a Quality Assurance Engineer with hands-on experience testing banking applications.
 
@@ -34,14 +34,11 @@ My daily responsibilities include:
 - Regression Testing
 - Integration Testing
 - User Acceptance Testing (UAT)
-- API Testing using Postman
-- Writing Test Cases
 - Reporting and Tracking Bugs
 - Validating Production Fixes
 
 I enjoy finding software defects before customers do and helping development teams deliver reliable products.
 
-I'm continuously improving my QA skills and currently learning **Test Automation using Appium and Python**.
 # 💼 Experience
 
 ## Quality Assurance
@@ -55,23 +52,22 @@ Responsibilities
 - Execute UAT
 - Verify defect fixes
 - Validate deployments
-- Prepare Test Evidence
-- Collaborate with Developers and Business Teams
 - Support Green Test activities
 
 ---
 
-## Software Engineering Intern
+## 💼 Software Engineering Intern
 ### Squeeze Asia
+**Nov 2024 – Feb 2025**
 
-Worked in Agile environment.
+Worked as a Frontend Developer Intern in an Agile development team.
 
-Responsibilities
-
-- Frontend Development
-- REST API Integration
-- Software Testing
-- Bug Fix Verification
+**Responsibilities**
+- Developed responsive and user-friendly web interfaces using React.js and Tailwind CSS.
+- Collaborated with backend developers to integrate RESTful APIs.
+- Participated in Agile ceremonies, including sprint planning and daily stand-up meetings.
+- Fixed UI issues and implemented new features based on project requirements.
+- Used Git and GitHub for version control and team collaboration.
 
 # 🧪 QA Skills
 
@@ -87,8 +83,6 @@ Responsibilities
 
 ✅ API Testing
 
-✅ Test Case Design
-
 ✅ Bug Reporting
 
 ✅ Defect Tracking
@@ -99,7 +93,7 @@ Responsibilities
 
 ✅ STLC
 
-✅ Agile Scrum
+
 
 # 🔧 Tools
 
@@ -109,11 +103,7 @@ Responsibilities
 | Postman | API Testing |
 | Git | Version Control |
 | GitHub | Source Code |
-| Chrome DevTools | Web Inspection |
-| Kibana | Log Monitoring |
-| Appium | Mobile Automation |
 | Python | Automation Scripts |
-| Android Studio | Mobile Testing |
 | VS Code | Coding |
 
 # 💻 Technical Skills
