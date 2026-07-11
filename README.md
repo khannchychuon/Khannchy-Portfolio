@@ -102,7 +102,6 @@ Worked as a Frontend Developer Intern in an Agile development team.
 | Postman | API Testing |
 | Git | Version Control |
 | GitHub | Source Code |
-| Python | Automation Scripts |
 | VS Code | Coding |
 
 # 💻 Technical Skills
