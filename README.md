@@ -20,7 +20,7 @@ I enjoy finding software defects before customers do and helping development tea
 
 <p align="left">
 <a href="https://www.linkedin.com/in/khannchy" target="_blank">
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://www.linkedin.com/in/chuon-khannchy-3214b3264/?skipRedirect=true)" width="40" height="40"/>
+<img src="https://www.linkedin.com/in/chuon-khannchy/" width="40" height="40"/>
 </a>
 </p>
 
