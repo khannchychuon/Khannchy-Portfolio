@@ -19,7 +19,7 @@ My daily responsibilities include:
 I enjoy finding software defects before customers do and helping development teams deliver reliable products.
 
 <h3 align="left">
-  <a href="[https://www.linkedin.com/in/khannchy](https://www.linkedin.com/in/chuon-khannchy-3214b3264/)" target="_blank">
+  <a href="https://www.linkedin.com/in/chuon-khannchy-3214b3264/" target="_blank">
     🔗 My LinkedIn Profile
   </a>
 </h3>
