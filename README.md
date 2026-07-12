@@ -2,7 +2,7 @@
 
 About Me 👋
 
-Hi, my name is Chuon Khannchy. I am a Quality Assurance Offiver with hands-on experience testing mobile and internet banking applications. My journey into QA began through software engineering, where I discovered that I enjoy analyzing systems, identifying issues, and ensuring software delivers a reliable user experience.
+Hi, my name is Chuon Khannchy. I am a Quality Assurance Engineer with hands-on experience testing mobile and internet banking applications. My journey into QA began through software engineering, where I discovered that I enjoy analyzing systems, identifying issues, and ensuring software delivers a reliable user experience.
 
 
 Currently, I work at **Asia-Pacific Development Bank Plc.**, where I perform manual testing for mobile and internet banking systems.
@@ -26,7 +26,7 @@ I enjoy finding software defects before customers do and helping development tea
 
 ## 💼 My Experience
 
-Working as a **Quality Assurance Officer Trainee** at **Asia-Pacific Development Bank Plc.** is my first professional role dedicated to Quality Assurance. In this position, I have gained hands-on experience testing mobile and internet banking applications, performing functional, regression, and User Acceptance Testing (UAT), reporting and verifying defects, and collaborating closely with developers and business teams to deliver reliable software.
+Working as a **Quality Assurance Officer ** at **Asia-Pacific Development Bank Plc.** is my first professional role dedicated to Quality Assurance. In this position, I have gained hands-on experience testing mobile and internet banking applications, performing functional, regression, and User Acceptance Testing (UAT), reporting and verifying defects, and collaborating closely with developers and business teams to deliver reliable software.
 
 This role has strengthened both my technical and soft skills, including analytical thinking, attention to detail, communication, and problem-solving. It has also inspired me to continue expanding my knowledge in API testing, SQL, and mobile test automation.
 
