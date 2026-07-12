@@ -28,7 +28,7 @@ I enjoy finding software defects before customers do and helping development tea
 
 Working as a Quality Assurance Officer  at Asia-Pacific Development Bank Plc. is my first professional role dedicated to Quality Assurance. In this position, I have gained hands-on experience testing mobile and internet banking applications, performing functional, regression, and User Acceptance Testing (UAT), reporting and verifying defects, and collaborating closely with developers and business teams to deliver reliable software.
 
-This role has strengthened both my technical and soft skills, including analytical thinking, attention to detail, communication, and problem-solving. It has also inspired me to continue expanding my knowledge in API testing, SQL, and mobile test automation.
+This role has strengthened both my technical and soft skills, including analytical thinking, attention to detail, communication, and problem-solving. It has also inspired me to continue expanding my knowledge in API testing, and SQL.
 
 Before joining APD Bank, I completed a Software Engineering Internship at Squeeze Asia. During my internship, I developed responsive web interfaces using React.js and Tailwind CSS, integrated RESTful APIs, and worked in an Agile development environment. This experience gave me a solid understanding of the software development lifecycle, improved my collaboration with developers, and helped me better understand how software is designed, built, and tested. That foundation has been invaluable in my transition into Quality Assurance, allowing me to communicate effectively with development teams and approach testing from both a user and a developer's perspective.
 
