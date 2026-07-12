@@ -71,7 +71,7 @@ My journey from Software Engineering to Quality Assurance has given me a well-ro
 | GitHub | Source code management and project collaboration |
 | Visual Studio Code | Code editing and project development |
 | XAMPP | Local development environment (Apache, PHP, MySQL) |
-| MySQL | Database testing and SQL queries |
+| MySQL | Database testing |
 
 # 💻 Technical Skills
 
