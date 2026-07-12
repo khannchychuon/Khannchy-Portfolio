@@ -94,9 +94,22 @@ Testing
 - Regression Testing
 - Functional Testing
 
+
 Version Control
 
 - Git
 - GitHub
+
+# 📫 Contact
+
+📧 chuonkhannchy0@gmail.com
+
+📱 (+855) 88 498 0839
+<h4 align="left">
+  <a href="https://www.linkedin.com/in/chuon-khannchy-3214b3264/" target="_blank">
+    💼 LinkedIn
+  </a>
+</h4>
+
 
 
