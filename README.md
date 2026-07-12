@@ -18,40 +18,22 @@ My daily responsibilities include:
 
 I enjoy finding software defects before customers do and helping development teams deliver reliable products.
 
-<h3 align="left">
+<h4 align="left">
   <a href="https://www.linkedin.com/in/chuon-khannchy-3214b3264/" target="_blank">
-    🔗 My LinkedIn Profile
+     My LinkedIn Profile
   </a>
-</h3>
+</h4>
 
-# 💼 Experience
+## 💼 My Experience
 
-## 💼 Quality Assurance Engineer
-### Asia-Pacific Development Bank Plc.
-**Mar 2025 – Present**
+Working as a **Quality Assurance Officer Trainee** at **Asia-Pacific Development Bank Plc.** is my first professional role dedicated to Quality Assurance. In this position, I have gained hands-on experience testing mobile and internet banking applications, performing functional, regression, and User Acceptance Testing (UAT), reporting and verifying defects, and collaborating closely with developers and business teams to deliver reliable software.
 
-As a Quality Assurance Engineer, I help ensure the quality, stability, and reliability of the bank's mobile and internet banking applications before they are released to customers.
+This role has strengthened both my technical and soft skills, including analytical thinking, attention to detail, communication, and problem-solving. It has also inspired me to continue expanding my knowledge in API testing, SQL, and mobile test automation.
 
-**Key Responsibilities**
--  Execute functional, regression, and User Acceptance Testing (UAT) for new features and system enhancements.
--  Identify, document, and verify software defects while working closely with developers to ensure timely resolution.
--  Validate deployments and confirm new releases meet business and quality requirements.
--  Support Green Test activities in the Pre-Production environment before production releases.
+Before joining APD Bank, I completed a **Software Engineering Internship** at **Squeeze Asia**. During my internship, I developed responsive web interfaces using React.js and Tailwind CSS, integrated RESTful APIs, and worked in an Agile development environment. This experience gave me a solid understanding of the software development lifecycle, improved my collaboration with developers, and helped me better understand how software is designed, built, and tested. That foundation has been invaluable in my transition into Quality Assurance, allowing me to communicate effectively with development teams and approach testing from both a user and a developer's perspective.
 
----
+My journey from Software Engineering to Quality Assurance has given me a well-rounded understanding of the software development process, and I am committed to continuously growing as a QA professional.
 
-## 💼 Software Engineering Intern
-### Squeeze Asia
-**Nov 2024 – Feb 2025**
-
-Worked as a Frontend Developer Intern in an Agile development team.
-
-**Responsibilities**
-- Developed responsive and user-friendly web interfaces using React.js and Tailwind CSS.
-- Collaborated with backend developers to integrate RESTful APIs.
-- Participated in Agile ceremonies, including sprint planning and daily stand-up meetings.
-- Fixed UI issues and implemented new features based on project requirements.
-- Used Git and GitHub for version control and team collaboration.
 
 # 🧪 QA Skills
 
