@@ -1,30 +1,9 @@
-<h1 align="center">Hi 👋 I'm Chuon Khannchy</h1>
+# 💼 Portfolio
 
-<h3 align="center">
-Quality Assurance Engineer | Manual Testing | API Testing 
-</h3>
+About Me 👋
 
-<p align="center">
-Passionate about delivering reliable, secure and high-quality software through effective testing.
-</p>
+Hi, my name is Chuon Khannchy. I am a Quality Assurance Offiver with hands-on experience testing mobile and internet banking applications. My journey into QA began through software engineering, where I discovered that I enjoy analyzing systems, identifying issues, and ensuring software delivers a reliable user experience.
 
-<p align="center">
-<a href="https://linkedin.com/in/chuon-khannchy">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
-</a>
-
-<a href="mailto:chuonkhannchy0@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?logo=gmail">
-</a>
-
-<a href="https://github.com/khannchychuon">
-<img src="https://img.shields.io/badge/GitHub-black?logo=github">
-</a>
-
-</p>
-👋 About Me
-
-Hello! I'm **Chuon Khannchy**, a Quality Assurance Engineer with hands-on experience testing banking applications.
 
 Currently, I work at **Asia-Pacific Development Bank Plc.**, where I perform manual testing for mobile and internet banking systems.
 
