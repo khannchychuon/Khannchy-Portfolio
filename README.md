@@ -18,11 +18,11 @@ My daily responsibilities include:
 
 I enjoy finding software defects before customers do and helping development teams deliver reliable products.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/khannchy" target="_blank">
-<h3> My Linkedin Profile </h3>
-</a>
-</p>
+<h3 align="left">
+  <a href="https://www.linkedin.com/in/khannchy" target="_blank">
+    🔗 My LinkedIn Profile
+  </a>
+</h3>
 
 # 💼 Experience
 
